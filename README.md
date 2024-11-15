@@ -25,11 +25,11 @@ Before you begin, ensure you have met the following requirements:
 #### Step 2: Create a Virtual Environment
 It is recommended to create a virtual environment to manage dependencies. You can create one using: 
 
-python -m venv venv
+python -m venv env
 
 Activate the virtual environment On Windows:
 
-venv\Scripts\activate
+env\Scripts\activate
 
 #### Step 3 : Install dependencies
 Install the required packages using pip. Make sure you have a requirements.txt file in your project. If not, you can create one with the necessary packages:
